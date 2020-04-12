@@ -1,1 +1,1 @@
-# SE-2XB3 repo
+The repo consists of work done for the Software Engineering: Binding Theory to Practice course. The course combines Algorithms & Data Structure fundamentals to Object Oriented programming (in Java) and testing (with JUnit). Some algorithms implmeneted in these projects are BFS, DFS, and Dijkstra's Algorithm.
